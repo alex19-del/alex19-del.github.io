@@ -22,5 +22,11 @@
             <description> El lenguaje PHP </description>
             <author>Fernando Paniagua</author> 
         </item> 
+        <item> 
+            <title>Javascript</title>
+            <link>https://www.paraninfo.es/rss/javascript.html</link>
+            <description> El lenguaje Javascript </description>
+            <author>Fernando Paniagua</author> 
+        </item> 
     </channel>
 </rss>
