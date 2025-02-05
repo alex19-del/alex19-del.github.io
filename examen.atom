@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="www.w3.org/2005/Atom">
+    <title>Mis Noticias</title>
+    <link href="https://www.elmundo.es/"></link>
+    <updated>Wed, 05 Feb 2025 13:53 +0100</updated>
+    <author>
+        <name>Alejandro Barrera Daza</name>
+    </author>
+    <id>https://www.elmundo.es/feed</id>
+    <entry>
+        <title>La fiscal jefa de Madrid carga contra la compañera que preguntó a García Ortiz</title>
+        <link href="https://www.elmundo.es/espana/2025/02/05/67a34c2be85eceec1d8b459c.html"></link>
+        <id>https://www.elmundo.es/espana/2025/02/05/67a34c2be85eceec1d8b459c.html</id>
+        <updated>Wed, 05 Feb 2025 13:53 +0100</updated>
+    </entry>
+    <entry>
+        <title>Cuenta atrás para las obras de Conde de Casal, la pieza más delicada del 'rompecabezas' de la movilidad dentro de la M-30</title>
+        <link href="https://www.elmundo.es/madrid/2025/02/05/67a256f2fdddffc83c8b459a.html"></link>
+        <id>https://www.elmundo.es/madrid/2025/02/05/67a256f2fdddffc83c8b459a.html</id>
+        <updated>Wed, 05 Feb 2025 13:53 +0100</updated>
+    </entry>
+    <entry>
+        <title>Revolución en las direcciones de RTVE: Sánchez Maroto y Jon Ariztimuño, al frente de los Informativos</title>
+        <link  href="https://www.elmundo.es/television/2025/02/05/67a326c121efa0935a8b4599.html"></link>
+        <id>https://www.elmundo.es/television/2025/02/05/67a326c121efa0935a8b4599.html</id>
+        <updated>Wed, 05 Feb 2025 13:53 +0100</updated>
+    </entry>
+    <entry>
+        <title>"El estado de terror" tras las renuncias en Vox: "Si te enfrentas a Kiko Méndez-Monasterio, estás muerto"</title>
+        <link href="https://www.elmundo.es/espana/2025/02/04/67a26b7ae85ecede338b4596.html"></link>
+        <id>https://www.elmundo.es/espana/2025/02/04/67a26b7ae85ecede338b4596.html</id>
+        <updated>Wed, 05 Feb 2025 13:53 +0100</updated>
+    </entry>
+    
+</feed>
