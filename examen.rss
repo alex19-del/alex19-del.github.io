@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Mis Noticias</title>
+    <link>https://www.elmundo.es/</link>
+    <description>Paguina web destinada a las noticias de actualidad</description>
+    <item>
+        <title>La fiscal jefa de Madrid carga contra la compañera que preguntó a García Ortiz</title>
+        <link href="https://www.elmundo.es/espana/2025/02/05/67a34c2be85eceec1d8b459c.html"></link>
+        <description>Indica que más de 500 personas del Ministerio Público tuvieron acceso al expediente</description>
+        <pubDate>Wed, 05 Feb 2025 13:53 +0100</pubDate>
+    </item>
+    <item>
+        <title>Cuenta atrás para las obras de Conde de Casal, la pieza más delicada del 'rompecabezas' de la movilidad dentro de la M-30</title>
+        <link href="https://www.elmundo.es/madrid/2025/02/05/67a256f2fdddffc83c8b459a.html"></link>
+        <description>El 17 de febrero comenzará la construcción del intercambiador, que se prolongarán durante 24 meses</description>
+        <pubDate>Wed, 05 Feb 2025 13:53 +0100</pubDate>
+    </item>
+    <item>
+        <title>https://www.elmundo.es/</title>
+        <link href="https://www.elmundo.es/television/2025/02/05/67a326c121efa0935a8b4599.html"></link>
+        <description>El presidente de RTVE, José Pablo López, continúa con la reestructuración orgánica de RTVE con nuevos nombramientos</description>
+        <pubDate>Wed, 05 Feb 2025 13:53 +0100</pubDate>
+    </item>
+    <item>
+        <title>"El estado de terror" tras las renuncias en Vox: "Si te enfrentas a Kiko Méndez-Monasterio, estás muerto"</title>
+        <link href="https://www.elmundo.es/espana/2025/02/04/67a26b7ae85ecede338b4596.html"></link>
+        <description>Los críticos señalan a Kiko Méndez-Monasterio y a Gabriel Ariza, asesores áulicos de Abascal, como culpables de la crisis de dimisiones de Vox</description>
+        <pubDate>Wed, 05 Feb 2025 13:53 +0100</pubDate>
+    </item>
+</channel>
+</rss>
